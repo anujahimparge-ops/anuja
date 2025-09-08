@@ -1,2 +1,2 @@
-# Anuja
+# anuja
 Demo the repository
